@@ -10,7 +10,7 @@ instance/*
 entvirt
 .comandos
 run.sh
-myKey.json
+MyKey.json
 
 ### Flask.Python Stack ###
 # Byte-compiled / optimized / DLL files
